@@ -1,6 +1,8 @@
 # EventSwitchingWidget
 An extension to generate events to be sent in switching.
 
+**This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite and there is no PTC support.**
+
 ## Description
 This extension provides a widget to generate an events to be sent in switching; given a value and a set of predicates, the widget provides an event for each predicate and triggers the event of the first verified predicate.
 
